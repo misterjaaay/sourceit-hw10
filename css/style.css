@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+#content {
+    padding-bottom: 70px;
+}
+#footer {
+    bottom: 0;
+    padding:20px 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+     background: none repeat scroll 0 0 #ffab62;
+    border-top: 1px solid #ff4b02;
+    color: #333;
+}
